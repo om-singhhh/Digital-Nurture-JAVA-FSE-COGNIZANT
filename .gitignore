@@ -1,1 +1,4 @@
 *.class
+
+this repository is for Java projects, so we want to ignore compiled Java class files.
+further more if we required to use i twe can use it 
